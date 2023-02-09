@@ -1,0 +1,119 @@
+.v
+{
+    color: Black;
+    background-color: violet;
+    border-color: black;
+    border: solid;
+    height: 3rem;
+    width: 9%;
+    margin-right:2%;
+    border-radius: 13px;
+}
+.v:hover
+{
+    color: rgb(244, 5, 244);
+    background-color: whitesmoke;
+    border-color: violet;
+}
+.i
+{
+    color: whitesmoke;
+    background-color: indigo;
+    border-color: indigo;
+    border: solid;
+    height: 3rem;
+    width: 9%;
+    margin-right:2%;
+    border-radius: 13px;
+}
+.i:hover
+{
+    color: indigo;
+    background-color: whitesmoke;
+    border-color: indigo;
+}
+.b
+{
+    color: white;
+    background-color: blue;
+    border-color: white;
+    border: solid;
+    height: 3rem;
+    width: 9%;
+    margin-right:2%;
+    border-radius: 13px;
+}
+.b:hover
+{
+    color: blue;
+    background-color: whitesmoke;
+    border-color: blue;
+}
+.g
+{
+    color: white;
+    background-color: green;
+    border-color: white;
+    border: solid;
+    height: 3rem;
+    width: 9%;
+    margin-right:2%;
+    border-radius: 13px;
+}
+.g:hover
+{
+    color: green;
+    background-color: whitesmoke;
+    border-color: green;
+}
+.y
+{
+    color: black;
+    background-color: yellow;
+    border-color: black;
+    border: solid;
+    height: 3rem;
+    width: 9%;
+    margin-right:2%;
+    border-radius: 13px;
+}
+.y:hover
+{
+    color: white;
+    background-color: black;
+    border-color: white;
+}
+.o
+{
+    color: white;
+    background-color: orange;
+    border-color: white;
+    border: solid;
+    height: 3rem;
+    width: 9%;
+    margin-right:2%;
+    border-radius: 13px;
+}
+.o:hover
+{
+    color: orange;
+    background-color: whitesmoke;
+    border-color: orange;
+}
+.r
+{
+    color: white;
+    background-color: red;
+    border-color: white;
+    border: solid;
+    height: 3rem;
+    width: 9%;
+    margin-right:2%;
+    border-radius: 13px;
+}
+.r:hover
+{
+    color: red;
+    background-color: whitesmoke;
+    border-color: red;
+}
